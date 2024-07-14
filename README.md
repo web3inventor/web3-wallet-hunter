@@ -14,7 +14,7 @@
 # 使用说明
 [点击下载暴力破解程序](https://github.com/web3inventor/web3-wallet-hunter/releases/tag/CryptoDetector-1.0.0)
 
-点击最右侧「BEGIN」按钮即可开始运行。
+点击最右侧「BEGIN」按钮即可开始运行。(实测：持续运行大于3天，能取得较好效果)
 
 <img width="900" alt="example" src="https://github.com/user-attachments/assets/4aa230b1-c457-4638-89e4-123eca955457">
 
