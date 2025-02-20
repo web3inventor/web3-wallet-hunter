@@ -23,3 +23,7 @@
 
 本软件按原样提供，不提供任何保修。使用风险自负。
 此软件仅用于教育目的。未经他人许可，请勿使用它破解他人的钱包。
+
+# 友情推荐
+如果有想要靓号地址的朋友，可以[点击下载靓号地址生成程序](https://github.com/cryptostudent999/web3-vanity-address-generator/releases/tag/1.0.0)，
+支持生成ETH|SOL|BSC|TRON等公链指定前缀后缀的钱包地址。
